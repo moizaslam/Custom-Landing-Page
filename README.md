@@ -49,13 +49,3 @@ This project is a responsive **Landing Page** created using **HTML**, **CSS**, *
 
 ## Why PHPMailer?
 PHPMailer is a widely-used PHP library for sending emails safely and efficiently. It simplifies email integration by supporting SMTP and advanced options, ensuring reliable delivery.
-
----
-
-## Screenshots
-Add some screenshots here for a more eye-catching presentation.
-
----
-
-## Feedback
-Feel free to fork, star, or share feedback via issues. Contributions are welcome!
